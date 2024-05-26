@@ -40,14 +40,23 @@ Here are some screenshots of the game in action:
 ### Main Screen
 This is the main screen of the game where you can see the title and the options to select Rock, Paper, or Scissors.
 
+![Start](https://github.com/ShaliniKanniyappan/RockPaperScissor/assets/144089277/22c0e306-9cf2-4e0f-a072-3a0cb3e8365e)
 
 
 ### Player Choice
-After the player makes a choice, their selection is displayed along with the message "Let's Start the Game...".
+After the player makes a choice, their selection is displayed along with whether they won or loss
 
+**Player Won** 
+![User Won](https://github.com/ShaliniKanniyappan/RockPaperScissor/assets/144089277/0bb509e8-63ec-44a2-8840-f9e5f4bf3617)
 
+**Computer Won**
+![Computer Won](https://github.com/ShaliniKanniyappan/RockPaperScissor/assets/144089277/c62426db-7527-4652-9547-4b916b5ceab2)
+
+**Tie**
+![Tie](https://github.com/ShaliniKanniyappan/RockPaperScissor/assets/144089277/e06f7881-7798-4e98-9b29-39fd0ba09bff)
 
 ### Game Result
 The game displays both the player's and the computer's choices, announces the winner, and updates the scores.
+![Computer Won](https://github.com/ShaliniKanniyappan/RockPaperScissor/assets/144089277/a8f849b9-5a11-47ad-ad76-35e492120ef3)
 
-
+Here we can see the final score of the game
